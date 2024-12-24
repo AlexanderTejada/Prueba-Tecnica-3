@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\customersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\customersapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\casosdeuso\\updatecustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\casosdeuso\\updatecustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\repositories\\customerdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\repositories\\customerdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|c:\\users\\sebas\\source\\repos\\customersapi_solucion\\customersapi\\dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2690A19-DF29-43CF-9BDE-1099580FEB58}|CustomersApi\\CustomersApi.csproj|solutionrelative:customersapi\\dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\.gitignore",
+              "RelativeDocumentMoniker": "CustomersApi\\.gitignore",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\.gitignore",
+              "RelativeToolTip": "CustomersApi\\.gitignore",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-24T11:22:49.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CustomersApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CustomersApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T01:42:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomersApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:13:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Dtos\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Dtos\\CustomerCreateDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Dtos\\CustomerCreateDto.cs",
+              "RelativeToolTip": "CustomersApi\\Dtos\\CustomerCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:30:32.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Program.cs",
+              "RelativeToolTip": "CustomersApi\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:09:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCustomerUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "RelativeToolTip": "CustomersApi\\CasosDeUso\\UpdateCustomerUseCase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:20:52.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomersApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\appsettings.json",
+              "RelativeToolTip": "CustomersApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T04:50:30.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersApi.csproj",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\CustomersApi.csproj",
+              "RelativeDocumentMoniker": "CustomersApi\\CustomersApi.csproj",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\CustomersApi.csproj",
+              "RelativeToolTip": "CustomersApi\\CustomersApi.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T02:32:52.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "RelativeToolTip": "CustomersApi\\Repositories\\CustomerDatabaseContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:33:39.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Dtos\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "CustomersApi\\Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:19:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Dtos\\CustomerUpdateDto.cs",
+              "RelativeDocumentMoniker": "CustomersApi\\Dtos\\CustomerUpdateDto.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\CustomersApi_Solucion\\CustomersApi\\Dtos\\CustomerUpdateDto.cs",
+              "RelativeToolTip": "CustomersApi\\Dtos\\CustomerUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:32:55.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
